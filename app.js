@@ -25,7 +25,7 @@ const CARDS = [
   {
     name: "Website",
     icon: "ri-global-fill",
-    link: "https://opulentloop.is-a.dev",
+    link: "https://debjit.is-a.dev",
   },
   {
     name: "Gmail",
