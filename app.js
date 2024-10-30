@@ -20,7 +20,7 @@ const CARDS = [
   {
     name: "GitHub",
     icon: "ri-github-fill",
-    link: "https://github.com/opulentloop",
+    link: "https://github.com/mysticdebjit",
   },
   {
     name: "Website",
@@ -53,9 +53,9 @@ const CARDS = [
     link: "https://web.telegram.org/#/im",
   },
   {
-    name: "Mastodon",
-    icon: "ri-mastodon-fill",
-    link: "https://fosstodon.org/@opulentloop",
+    name: "Threads",
+    icon: "ri-threads-fill",
+    link: "https://threads.net/@mysticdebjit",
   },
   {
     name: "Reddit",
@@ -80,7 +80,7 @@ const CARDS = [
   {
     name: "GitHub Page",
     icon: "ri-github-fill",
-    link: "https://opulentloop.github.io",
+    link: "https://mysticdebjit.github.io",
   },
 ];
 
