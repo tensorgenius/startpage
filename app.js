@@ -20,7 +20,7 @@ const CARDS = [
   {
     name: "GitHub",
     icon: "ri-github-fill",
-    link: "https://github.com/mysticdebjit",
+    link: "https://github.com/mystichronicle",
   },
   {
     name: "Website",
@@ -55,7 +55,7 @@ const CARDS = [
   {
     name: "Threads",
     icon: "ri-threads-fill",
-    link: "https://threads.net/@mysticdebjit",
+    link: "https://threads.net/@mystichronicle",
   },
   {
     name: "Reddit",
@@ -80,7 +80,7 @@ const CARDS = [
   {
     name: "GitHub Page",
     icon: "ri-github-fill",
-    link: "https://mysticdebjit.github.io",
+    link: "https://mystichronicle.github.io",
   },
 ];
 

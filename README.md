@@ -1,5 +1,5 @@
 # Startpage
-Live at https://mysticdebjit.github.io/startpage/
+Live at https://mystichronicle.github.io/startpage/
 
 
 It is a fork from https://github.com/imreyesjorge/root-startpage
